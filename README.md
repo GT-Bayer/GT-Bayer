@@ -1,9 +1,9 @@
 
 <div align="center">
-  <a href="https://github.com/GT-Bayer?tab=repositories"><img alt="Stars" title="Stars Profile" src="https://img.shields.io/github/stars/GT-Bayer/bayer-scan?style=for-the-badge&color=000000&labelColor=000000&logo=star&logoColor=white" />
-  </a>
-  <a href="https://github.com/GT-Bayer?tab=followers"><img alt="Followers" title="Github Followers" src="https://img.shields.io/github/followers/GT-Bayer?style=for-the-badge&color=000000&labelColor=000000&label=FOLLOWERS" /></a>
+  <a href="https://github.com/GT-Bayer/bayer-scan/stargazers"><img alt="Stars" title="Stars Repository" src="https://img.shields.io/github/stars/GT-Bayer/bayer-scan?style=for-the-badge&color=000000&labelColor=000000&label=STARS" /></a>
+  <a href="https://github.com/GT-Bayer?tab=followers"><img alt="Followers" title="GitHub Followers" src="https://img.shields.io/github/followers/GT-Bayer?style=for-the-badge&color=000000&labelColor=000000&label=FOLLOWERS" /></a>
 </div>
+
 <br>
 
 <div align="center">
